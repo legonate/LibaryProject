@@ -12,7 +12,7 @@ Person::Person(string fN, string lN)
   cout<<firstName << " "<< lastName <<endl; 
 }
 
-void Person::getName()
+string Person::getName()
 {
   
 }
