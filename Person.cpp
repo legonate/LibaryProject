@@ -14,6 +14,6 @@ Person::Person(string fN, string lN)
 
 string Person::getName()
 {
-  
+	return string;
 }
 
